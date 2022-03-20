@@ -11,10 +11,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="001-maven-parent" target="1.5" />
-      <module name="002-maven-java" target="1.5" />
-      <module name="003-maven-web" target="1.5" />
-      <module name="004-maven-java-002" target="1.5" />
+      <module name="001-maven-parent" target="8" />
+      <module name="002-maven-java" target="8" />
+      <module name="003-maven-web" target="8" />
+      <module name="004-maven-java-002" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
